@@ -252,7 +252,7 @@ form {
   align-items: center;
   justify-content: center;
 }
-input[type="text"] {
+form input[type="text"] {
   padding: 10px;
   border: none;
   background-color: #fcc419;
@@ -262,7 +262,7 @@ input[type="text"] {
   font-size: 1.4rem;
   
 }
-button {
+form button {
   background-color: #fcc419; 
    border: none;
   border-radius: 0 5px 5px 0;
